@@ -1,5 +1,5 @@
 # RestAPI Demo
-**[This](https://github.com/omise/omise-php)** is a simple project that describes how to work with RestAPI in PHP.
+**[This](https://github.com/benquang/demophpweb/tree/develop)** is a simple project that describes how to work with RestAPI in PHP.
 
 ## Requirements
 - PHP 7 and above.
