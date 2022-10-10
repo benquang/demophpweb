@@ -1,4 +1,4 @@
-# RestAPI Demo
+## About this project
 **[This](https://github.com/benquang/demophpweb/tree/develop)** is a simple project that describes how to work with RestAPI in PHP, let's start with a simple example using GET request method, for more request methods, read this blog: https://rapidapi.com/blog/how-to-use-an-api/amp/
 
 ## Requirements
