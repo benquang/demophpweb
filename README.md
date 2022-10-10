@@ -16,5 +16,9 @@ We need to install both curl and mysqli extensions, here is how to install they 
 extension = curl
 extension = mysqli
 ```
+## Configuration
+After you installed MySql, you need to import data that require for this project, go to the this folder: 
+https://github.com/benquang/demophpweb/tree/develop/toysScript
 
-
+First, you have to create a database named `toys`.
+There are 2 sql script files, you need to import toys_category and toys_toys in order to your database, you can refer this guide: https://simplebackups.com/blog/how-to-import-sql-file-in-mysql/
