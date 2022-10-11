@@ -3,8 +3,8 @@
 function OpenCon()
  {
  $dbhost = "localhost";
- $dbuser = "root";
- $dbpass = "617732227528";
+ $dbuser = "text here";
+ $dbpass = "text here";
  $db = "Toys";
  $conn = new mysqli($dbhost, $dbuser, $dbpass,$db) or die("Connect failed: %s\n". $conn -> error);
  return $conn;
